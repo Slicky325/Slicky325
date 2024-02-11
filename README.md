@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Slicky325
 - 👀 I’m interested in Game-Development, Data Science Related Applications and Quantum Computing  
-- 🌱 I’m currently learning working of ML/DL models and Game Dev on Unity.
+- 🌱 I’m currently learning the working of DL models and doing some Game Dev on Unity.
 - 📽️ My ongoing projects are ...
 - 📫 How to reach me:
 - vansh3022005@outlook.com
