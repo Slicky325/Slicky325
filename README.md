@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Slicky325, currently doing my BTech undergrad in physics at IIT Roorkee.
-- 👀 I’m interested in Game-Development, Data Science Related Applications and Quantum Computing  
-- 🌱 I’m currently learning the working of DL models and doing some Game Dev on Unity.
+- 👀 I’m interested in Deep learning, Data Science, Game Design and development and along with some Quantum Computing and Electronics.
+- 🌱 I’m currently learning about generative networks and Quantum Mechanics.
 - 📽️ My ongoing projects are
      1) Analyzing Jordell Pulsar glitch table
      2) Anushruti (With Enactus-IITR)
