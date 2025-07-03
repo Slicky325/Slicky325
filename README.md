@@ -5,8 +5,5 @@
 
 I’m Vansh Agrawal, currently doing my BTech undergrad in physics at IIT Roorkee.
 - 👀 I’m interested in Deep learning, Data Science and Physics.
-- 🌱 I’m currently learning about generative networks and Electronics.
-- 📽️ My ongoing projects are
-     - Working on a research paper for evalutaing diffusion models
-     -  Doing a research project in TIFR
+- 🌱 I’m currently learning about Optimizing LLM efficiency and Enhancing their reasoning capabilites.
 - 📫 How to reach me: vansh_a@ph.iitr.ac.in or agrawalvansh565@gmail.com
